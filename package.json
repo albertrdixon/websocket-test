@@ -1,0 +1,24 @@
+{
+  "name": "websocket-test",
+  "version": "1.0.0",
+  "description": "simple websocket server for testing",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertrdixon/websocket-test.git"
+  },
+  "author": "Albert Dixon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albertrdixon/websocket-test/issues"
+  },
+  "homepage": "https://github.com/albertrdixon/websocket-test#readme",
+  "private": true,
+  "dependencies": {
+    "websocket": "^1.0.21"
+  }
+}
